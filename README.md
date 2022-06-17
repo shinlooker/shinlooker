@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinlooker&show_icons=true&theme=nord)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shinlooker&repo=SmartCard&theme=vue-dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shinlooker&repo=SmartCard&theme=material-palenight)
